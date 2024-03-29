@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>google_0258_jpg.rf.0ded1e84ab47b2d72bdc9f990ae6f992.jpg</filename>
+	<path>google_0258_jpg.rf.0ded1e84ab47b2d72bdc9f990ae6f992.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2.5 sepcial mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>153</xmin>
+			<xmax>216</xmax>
+			<ymin>138</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,27 @@
+<annotation>
+	<folder />
+	<filename>naver_0013_jpg.rf.1c6d64ad0b38a1436e7242dd641abca0.jpg</filename>
+	<path>naver_0013_jpg.rf.1c6d64ad0b38a1436e7242dd641abca0.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>buoy</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>414</xmin>
+			<xmax>548</xmax>
+			<ymin>88</ymin>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+</annotation>

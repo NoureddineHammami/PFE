@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>search-pstatic-36_jpg.rf.907e7267c400a898f9f79fe4bafca503.jpg</filename>
+	<path>search-pstatic-36_jpg.rf.907e7267c400a898f9f79fe4bafca503.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>2.5 sepcial mark</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>126</xmin>
+			<xmax>575</xmax>
+			<ymin>36</ymin>
+			<ymax>421</ymax>
+		</bndbox>
+	</object>
+</annotation>
