@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>obstaclemarque_e69aadf1-a677-4aa0-96f3-ce2eea99ba12_jpg.rf.f437933622e63de879cdf346f2e8b140.jpg</filename>
+	<path>obstaclemarque_e69aadf1-a677-4aa0-96f3-ce2eea99ba12_jpg.rf.f437933622e63de879cdf346f2e8b140.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

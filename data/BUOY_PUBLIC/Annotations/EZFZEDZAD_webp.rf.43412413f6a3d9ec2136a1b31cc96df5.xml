@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>EZFZEDZAD_webp.rf.43412413f6a3d9ec2136a1b31cc96df5.jpg</filename>
+	<path>EZFZEDZAD_webp.rf.43412413f6a3d9ec2136a1b31cc96df5.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

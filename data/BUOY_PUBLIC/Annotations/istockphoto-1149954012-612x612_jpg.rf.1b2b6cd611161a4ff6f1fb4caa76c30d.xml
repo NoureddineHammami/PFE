@@ -1,0 +1,14 @@
+<annotation>
+	<folder />
+	<filename>istockphoto-1149954012-612x612_jpg.rf.1b2b6cd611161a4ff6f1fb4caa76c30d.jpg</filename>
+	<path>istockphoto-1149954012-612x612_jpg.rf.1b2b6cd611161a4ff6f1fb4caa76c30d.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

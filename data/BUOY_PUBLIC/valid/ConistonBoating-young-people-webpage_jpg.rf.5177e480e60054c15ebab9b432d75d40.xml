@@ -1,0 +1,14 @@
+<annotation>
+	<folder></folder>
+	<filename>ConistonBoating-young-people-webpage_jpg.rf.5177e480e60054c15ebab9b432d75d40.jpg</filename>
+	<path>ConistonBoating-young-people-webpage_jpg.rf.5177e480e60054c15ebab9b432d75d40.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>

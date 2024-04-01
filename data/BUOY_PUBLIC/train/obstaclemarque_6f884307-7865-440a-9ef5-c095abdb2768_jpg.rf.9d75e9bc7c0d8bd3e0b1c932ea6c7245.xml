@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>obstaclemarque_6f884307-7865-440a-9ef5-c095abdb2768_jpg.rf.9d75e9bc7c0d8bd3e0b1c932ea6c7245.jpg</filename>
+	<path>obstaclemarque_6f884307-7865-440a-9ef5-c095abdb2768_jpg.rf.9d75e9bc7c0d8bd3e0b1c932ea6c7245.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marque</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>196</xmin>
+			<xmax>495</xmax>
+			<ymin>56</ymin>
+			<ymax>568</ymax>
+		</bndbox>
+	</object>
+</annotation>
